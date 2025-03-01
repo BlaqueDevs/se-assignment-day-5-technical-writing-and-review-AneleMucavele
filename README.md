@@ -4,7 +4,6 @@
 ## 1. How can understanding your audience’s expertise level (tech experts vs. regular folks) shape the way you present technical information?
 
 The way you present technical information depends on whether your audience consists of tech experts or regular users:
-
 Tech Experts: Expect precise, in-depth explanations, technical jargon, and detailed documentation.
 Regular Users: Prefer simple, clear explanations without excessive jargon.
 
